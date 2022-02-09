@@ -25,6 +25,7 @@ Markdown     4 mins          ▒░░░░░░░░░░░░░░░░
 
 <h3 align="left">Latest posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Мой опыт с Webpack 5 Module Federation](https://habr.com/ru/post/650401/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages:</h3>
