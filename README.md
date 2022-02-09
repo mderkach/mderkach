@@ -12,6 +12,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mderkach&theme=monokai)
 
+<h3 align="left">IDE stats:</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Languages:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
