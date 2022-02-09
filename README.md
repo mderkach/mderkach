@@ -14,13 +14,13 @@
 
 <h3 align="left">IDE stats:</h3>
 <!--START_SECTION:waka-->
-
+```text
 JSON         2 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   45.38 % 
 Other        1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
 TypeScript   59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 JavaScript   29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages:</h3>
