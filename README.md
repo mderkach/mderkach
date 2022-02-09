@@ -14,10 +14,11 @@
 
 <h3 align="left">IDE stats:</h3>
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mderkach)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mderkach)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Latest posts:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Мой опыт с Webpack 5 Module Federation](https://habr.com/ru/post/650401/)
 <!-- BLOG-POST-LIST:END -->
