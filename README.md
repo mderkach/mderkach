@@ -1,4 +1,4 @@
-# Hi there, I'm [Mikhail](https://mderkach.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Mikhail Derkach 
 
 ### Senior Frontend Developer, working in [Digital League](https://www.digitalleague.ru/) 🇷🇺
 
