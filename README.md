@@ -15,13 +15,14 @@
 <h3 align="left">IDE stats:</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-YAML             2 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   41.33 % 
-GitIgnore file   1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-TypeScript       1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
-JSON             18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+TypeScript       12 mins         ██████████████████████▓░░   90.99 %
+GitIgnore file   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 
