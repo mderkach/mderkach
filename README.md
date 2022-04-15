@@ -1,6 +1,6 @@
 # Hi there, I'm Mikhail Derkach 
 
-### Senior Frontend Developer, working in [Digital League](https://www.digitalleague.ru/) 🇷🇺
+### Senior Frontend Developer
 
 ![](https://komarev.com/ghpvc/?username=mderkach)
 
