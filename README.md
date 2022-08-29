@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       27 hrs 34 mins  ███████████████████▓░░░░░   78.38 %
-JSON             3 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-JavaScript       2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Markdown         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-.env file        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Shell Script     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript       21 hrs 2 mins   ██████████████████▒░░░░░░   73.50 %
+JSON             3 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+JavaScript       2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Markdown         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+.env file        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Shell Script     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
