@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       3 hrs 38 mins   █████████████████▓░░░░░░░   70.60 %
-JSON             1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript       3 hrs 28 mins   █████████████████░░░░░░░░   67.67 %
+JSON             1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   27.62 %
+GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
