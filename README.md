@@ -74,7 +74,3 @@ HTML           0 secs          ░░░░░░░░░░░░░░░░�
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<h3 align="left">Currently listening on Spotify:</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zheu465dcykmme7zochrbs4j3a&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=31zheu465dcykmme7zochrbs4j3a&redirect=true)
