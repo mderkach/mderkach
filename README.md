@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       4 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   40.99 %
-JSON             3 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-TypeScript       2 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-tsconfig         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-textmate         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JavaScript       4 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   42.89 %
+TypeScript       3 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.18 %
+JSON             1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+tsconfig         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
