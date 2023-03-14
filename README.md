@@ -17,11 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      1 hr 9 mins     ██████████████████████▒░░   89.46 %
-JSON            8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-textmate        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Prettier File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-YAML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   1 hr 44 mins    ████████████████████████▒   96.69 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
