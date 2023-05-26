@@ -17,11 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   14 mins         ███████████▓░░░░░░░░░░░░░   46.88 %
-JavaScript       14 mins         ███████████▓░░░░░░░░░░░░░   46.53 %
-Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-TypeScript       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+GitIgnore file   14 mins         ████████████░░░░░░░░░░░░░   48.32 %
+JavaScript       13 mins         ███████████▓░░░░░░░░░░░░░   47.06 %
+Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
