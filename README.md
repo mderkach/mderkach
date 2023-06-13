@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                10 mins         █████████░░░░░░░░░░░░░░░░   36.38 %
-Text                8 mins          ███████░░░░░░░░░░░░░░░░░░   28.19 %
-JavaScript          7 mins          ███████░░░░░░░░░░░░░░░░░░   27.37 %
-Prettier File       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Browserslist File   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
