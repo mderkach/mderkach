@@ -17,11 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         24 mins         █████████████████▓░░░░░░░   70.24 %
-TypeScript       9 mins          ███████░░░░░░░░░░░░░░░░░░   27.63 %
-StyleLint File   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+StyleLint File   0 secs          ████████████████████████▓   99.25 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
