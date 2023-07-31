@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-StyleLint File   0 secs          ████████████████████████▓   99.25 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
