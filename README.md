@@ -26,7 +26,7 @@ No activity tracked
 <h3 align="left">Latest posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Мой опыт с Webpack 5 Module Federation](https://habr.com/ru/articles/650401/)
+- [Мой опыт с Webpack 5 Module Federation](https://habr.com/ru/articles/650401/?utm_campaign=650401&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages:</h3>
